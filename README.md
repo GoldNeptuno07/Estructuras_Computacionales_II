@@ -12,4 +12,4 @@ En este jupyter notebook se muestran los __algoritmos__ realizados durante el cu
 
 Nota. Todos estos algoritmos estaran compuestos de en un solo archivo .py, para mantener el codigo correctamente organizado haremos uso de la POO.
 
-![UAA](https://www.heraldo.mx/wp-content/uploads/2020/02/UAA-universidad-autonoma-de-aguascalientes-Campus-Sur-8.jpg](https://www.liderempresarial.com/wp-content/uploads/2020/03/BOLETIN-387-2.jpg)https://www.liderempresarial.com/wp-content/uploads/2020/03/BOLETIN-387-2.jpg](https://www.liderempresarial.com/wp-content/uploads/2020/03/BOLETIN-387-2.jpg)https://www.liderempresarial.com/wp-content/uploads/2020/03/BOLETIN-387-2.jpg)
+![UAA](https://www.liderempresarial.com/wp-content/uploads/2020/03/BOLETIN-387-2.jpg)
